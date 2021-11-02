@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IDENProtect Sample Project - Owen Woodward</string>
+
+    <string name="encryptionComplete">"Text is Successfully Encrypted"</string>
+    <string name="decryptionComplete">Text has been Successfully Decrypted</string>
+    <string name="InvalidInput">Please Enter a Valid Plain Text String</string>
+    <string name="Alert_Hint">Please Enter a String Here</string>
+    <string name="encrypt_button_text">Encrypt String</string>
+    <string name="decrypt_button_text">Decrypt String</string>
+    <string name="clear_button_text">Clear Data</string>
+
+    <string name="SuccessfulHint">Process Successful</string>
+
+</resources>
